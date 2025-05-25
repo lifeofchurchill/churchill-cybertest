@@ -1,4 +1,4 @@
-<h1>Hi, I'm Churchill! <br/><a href="https://github.com/joshmadakor1">Programmer</a> and a <a href="https://www.linkedin.com/in/evans-hoyah-66824b227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Software Engineer</a>, 
+<h1>Hi, I'm Churchill! <br/><a href="https://github.com/joshmadakor1">Software Engineer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
